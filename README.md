@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nightreboot/nightreboot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/3db08f32-7a4f-43b2-8104-859603e65f75" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Hi, I'm Raj
+
+Machine Learning Engineer | AI Developer
+
+<img src="PROFILE_VIEWS_BADGE">
+
+<img src="LAST_COMMIT_BADGE">
+
+<img src="REPOSITORY_COUNT_BADGE">
+
+</div>
