@@ -7,10 +7,11 @@
 
 Machine Learning Engineer | AI Developer
 
-<img src="PROFILE_VIEWS_BADGE">
+<img src="https://komarev.com/ghpvc/?username=nightreboot&label=Profile%20Views&color=0e75b6&style=flat" />
 
-<img src="LAST_COMMIT_BADGE">
+<img src="https://img.shields.io/github/last-commit/nightreboot/nightreboot?label=Last%20Commit" />
 
-<img src="REPOSITORY_COUNT_BADGE">
+<img src="https://img.shields.io/badge/Repositories-71-yellow" />
+
 
 </div>
